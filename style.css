@@ -6,7 +6,7 @@
 
 header {
   /* background-color: red; */
-  background-image: url("../images/banner/banner3.png");
+  background-image: url("./images/banner/banner3.png");
   height: 800px;
   width: 1550;
   background-size: cover;
@@ -136,7 +136,7 @@ main li {
   width: 67%;
   height: 250px;
   border-radius: 25px;
-  background-image: url("../images/gradient1.png"), url("/images/watch.png");
+  background-image: url("./images/gradient1.png"), url("./images/watch.png");
   background-position: left top, center;
 }
 .calling-info h1 {
