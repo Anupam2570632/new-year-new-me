@@ -134,8 +134,8 @@ main li {
 .calling-section {
   /* margin: 0px 150px 130px 150px; */
   width: 67%;
-  height: 250px;
-  border-radius: 25px;
+  height: 290px;
+  border-radius: 15px;
   background-image: url("./images/gradient1.png"), url("/images/watch.png");
   background-position: left top, center;
 }
@@ -143,11 +143,22 @@ main li {
   color: #fff;
   width: 350px;
   font-size: 40px;
+  margin-top: 10px;
   font-weight: 700;
 }
 .calling-info button {
-  padding: 10px 40px;
-  margin: 10px 880px 30px 0px;
+  padding: 15px 25px;
+  border-radius: 10px;
+  border: none;
+  color: #005FAC;
+  text-align: center;
+  font-size: 17px;
+  font-weight: 600;  
+  margin-top: 30px;
+  /* margin: 10px 880px 30px 0px; */
+}
+.calling-info a{
+  text-decoration: none;
 }
 .calling-info {
   padding: 40px 0px 40px 40px;
