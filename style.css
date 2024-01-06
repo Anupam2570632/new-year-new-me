@@ -136,7 +136,7 @@ main li {
   width: 67%;
   height: 290px;
   border-radius: 15px;
-  background-image: url("./images/gradient1.png"), url("/images/watch.png");
+  background-image: url("./images/gradient1.png"), url("./images/watch.png");
   background-position: left top, center;
 }
 .calling-info h1 {
